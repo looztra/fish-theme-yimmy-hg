@@ -26,5 +26,5 @@ You will need the hg-prompt extension, see http://stevelosh.com/projects/hg-prom
 ### Installation:
 
 - clone the repo somewhere
-- copy the files to ~/.oh-my-fish/custom/themes/yimmy-hg (or the name you wish)
-- set the theme in ~/.config/fish/config.fish with something like `set fish_theme yimmy-hg`
+- copy the files to `~/.oh-my-fish/custom/themes/yimmy-hg` (or the name you wish)
+- set the theme in `~/.config/fish/config.fish` with something like `set fish_theme yimmy-hg`
