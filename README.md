@@ -8,7 +8,7 @@ Dark colors.
 
 ![Screenshot](https://cloud.githubusercontent.com/assets/2502736/3245408/32c42cde-f172-11e3-8ba3-912191222a11.png)
 
-Characteristics:
+### Characteristics
 
 - Standard fish prompt characters: > for user, # for root
 - Uses the fish `prompt_pwd`, so paths will be abbreviated
@@ -18,3 +18,13 @@ Characteristics:
 - Prompt character is colored red if previous command had a non-zero exit
   status
 - Includes completmentary `LS_COLORS`
+
+### Requirements
+
+You will need the hg-prompt extension, see http://stevelosh.com/projects/hg-prompt/
+
+### Installation:
+
+- clone the repo somewhere
+- copy the files to ~/.oh-my-fish/custom/themes/yimmy-hg (or the name you wish)
+- set the theme in ~/.config/fish/config.fish with something like `set fish_theme yimmy-hg`
